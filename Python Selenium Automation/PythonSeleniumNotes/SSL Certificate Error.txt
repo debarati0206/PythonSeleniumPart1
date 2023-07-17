@@ -1,0 +1,9 @@
+SSL Certificate Error resolve::::
+
+pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org selenium
+
+pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org <package name>
+pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org pytest
+
+
+

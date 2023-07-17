@@ -1,0 +1,16 @@
+# any pytest file will start with test_ or end with _test
+#pytest method starts with test_
+#any code should be wrapped in method always
+
+Run: 
+1. all test cases : py.test
+2. all test cases with more info : py.test -v 
+3. all test cases with more info and logs in output : py.test -v -s 
+4. specific file : py.test <filename> -v -s
+5. execute specific method : -k <part of method name> 
+				e.g . py.test -k CreditCard -v -s (2 methods are there GreetCreditCard,AxisCreditCard)
+
+
+1. want to skip a specific test - mark as @pytest.mark.skip -> execution= py.test -v -s
+2. want to smoke test - @pytest.mark.smoke -> execution= py.test -m smoke -v -s
+3. want to perform test but it may fail so don't want its result (skip reporting in reporting file) - @pytest.mark.xfail -> execution= py.test -v -s

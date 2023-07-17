@@ -1,0 +1,1 @@
+add selectorsHub extension in chrome to check own written selector

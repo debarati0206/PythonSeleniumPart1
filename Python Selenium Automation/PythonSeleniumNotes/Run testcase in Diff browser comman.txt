@@ -1,0 +1,25 @@
+Run testcase in Diff browser command: py.test --browser_name chrome, py.test --browser_name firefox
+
+google for command line options for pytest.
+
+***PASSING COMMAND LINE OPTIONS TO SELECTED BROWSER AT RUNTIME***
+
+conftest.py file::::
+
+
+def pytest_addoption(parser):
+	paser.addoption(
+		"--browser_name", action="store", default="chrome"
+	)
+
+@pytest.fixture(scope="class)
+def setup(request):
+	browser_name = request.config.getoption("browser_name")
+	if browser_name == "chrome":
+		obj = webdriver.ChromeOptions()
+    		driver = webdriver.Chrome(options=obj)
+    	elif browser_name == "edge":
+		obj = webdriver.EdgeOptions()
+    		driver = webdriver.Edge(options=obj)
+    	driver.get("https://rahulshettyacademy.com/angularpractice/")
+    	driver.maximize_window()

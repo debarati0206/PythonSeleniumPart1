@@ -1,0 +1,11 @@
+Pending to Solve:
+
+
+@pytest.mark.usefixtures("setup")
+class TestExample2:
+
+    def test_FixtureDemo1(self):
+        print("1")
+
+    def test_Demo2(self):
+        print("2")

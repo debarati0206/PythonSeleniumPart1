@@ -1,0 +1,3 @@
+HTML report generate
+
+py.test --html=report.html

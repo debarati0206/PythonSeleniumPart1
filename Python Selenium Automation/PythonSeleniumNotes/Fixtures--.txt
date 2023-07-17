@@ -1,0 +1,53 @@
+Fixtures--
+
+BeforeTest and AfterTest annotation in java is similar to fixtures in python.
+
+BeforeTest i.e. executes as prerequisite before the test.
+AfterTest excutes after the test. It is called set up and tear down method in java similar of fixtures in Python.
+
+Write fixture in conftest.py when its shared by multiple files.conftest file is to generalise fixtures and make it available for all test cases in different files.
+
+
+To apply fixture to all the methods wrap them in class and apply fixture on class. @pytest.fixtures()       		@pytest.mark.useFixtures("setup")
+
+
+to apply fixture before and after all methods execution write @pytest.fixture(scope='class')
+
+Fixture helps to load the data beside acting as a prerequisite. 
+
+conftest.py::::						test_fixture.py:::::
+import pytest						import pytest
+@pytest.fixture()					@pytest.mark.usefixtures("setup")
+def setup():						class TestExample:
+	print("1")						def test_fixDemo1(self):
+	yield								print("fixDemo1")
+	print("2")						def test_fixDemo2(self):
+									print("fixDemo2")
+
+output:::::::::::::
+1
+fixDemo1
+2
+1
+fixDemo2
+2
+
+conftest.py::::						test_fixture.py:::::
+import pytest						import pytest
+@pytest.fixture(scope="class")				@pytest.mark.usefixtures("setup")
+def setup():						class TestExample:
+	print("1")						def test_fixDemo1(self):
+	yield								print("fixDemo1")
+	print("2")						def test_fixDemo2(self):
+									print("fixDemo2")
+
+output:::::::::::::
+1
+fixDemo1
+fixDemo2
+2
+
+
+
+***You can have data setup seperately in a fixture in conftest.py file***
+** You can run test with multiple datasets using params in fixture declaration**

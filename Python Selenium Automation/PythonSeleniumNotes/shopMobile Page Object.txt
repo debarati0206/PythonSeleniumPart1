@@ -1,0 +1,19 @@
+shopMobile Page Object 
+
+
+from selenium.webdriver.common.by import By
+
+
+class ShopMobile:
+    def __int__(self,driver):
+        self.driver = driver
+
+    mobileNames = (By.XPATH,"//div[@class='card h-100']/div/h4")
+
+    def MobileNames(self):
+        return self.driver.find_elements(*ShopMobile.mobileNames)
+
+    addMobile = (By.XPATH,"div/button[contains(.,'Add')]")
+
+    def AddMobileToCart(self):
+        return self.driver.find_elements(*ShopMobile.addMobile)

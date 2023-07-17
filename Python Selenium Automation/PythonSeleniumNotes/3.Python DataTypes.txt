@@ -1,0 +1,24 @@
+1.Numeric(int,long - deprecated,float,complex),2.String,3.List,4.Tuple,5.Dictionary
+
+functions vs methods
+-> functions are written independently, when it's written inside class, it's called method.
+
+OOPS Concept ::::
+
+constructor -> called as soon as object is created . def __init__(self):
+								print("constructor")
+		here self is object which we create for the particular class outside of that class. 
+		if we pass any parameter inside object then we have to create instance variable inside constructor and also declare arguements after self which will accept those parameter values. 
+
+		eg :
+		class Calculator:
+		    num =110    # class variable -not impacted with object creation 
+		    def __init__(self,a,b):
+				self.frstno = a # frstno and secondno are instance variable
+				self.secondno = b
+		     def sum(self):
+			return self.frstno +self.secondno+ Calculator.num Or self.num
+		obj = Calculator(2,3) #obj is self, 2 goes to a, 3 goes to b.
+		obj.sum()
+	
+SELF -> its like global and universal to call any variable class/instance.
