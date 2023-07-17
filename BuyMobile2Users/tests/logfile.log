@@ -1,0 +1,98 @@
+
+2023-07-17 17:40:51,726 :INFO : test_e2e :Getting all mobile names: 
+2023-07-17 17:40:51,742 :INFO : test_e2e :iphone X
+2023-07-17 17:40:51,750 :INFO : test_e2e :Samsung Note 8
+2023-07-17 17:40:51,758 :INFO : test_e2e :Nokia Edge
+2023-07-17 17:40:51,764 :INFO : test_e2e :Blackberry
+2023-07-17 17:40:56,071 :INFO : test_e2e :Searching for country india
+2023-07-17 17:41:01,439 :INFO : test_e2e :Message displayed: ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-17 19:16:17,813 :INFO : test_e2e :Getting all mobile names:
+2023-07-17 19:16:17,828 :INFO : test_e2e :iphone X
+2023-07-17 19:16:17,836 :INFO : test_e2e :Samsung Note 8
+2023-07-17 19:16:17,845 :INFO : test_e2e :Nokia Edge
+2023-07-17 19:16:17,855 :INFO : test_e2e :Blackberry
+2023-07-17 19:16:22,135 :INFO : test_e2e :Searching for country india
+2023-07-17 19:16:27,649 :INFO : test_e2e :Message displayed: ï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).
+
+2023-07-17 19:20:42,168 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:20:42,168 :INFO : test_e2e :Email isrs@gmail.com
+2023-07-17 19:20:42,168 :INFO : test_e2e :Password isrspwd
+2023-07-17 19:20:42,168 :INFO : test_e2e :Password isMale
+2023-07-17 19:20:46,682 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:20:46,682 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:20:46,682 :INFO : test_e2e :Email isa21s@gmail.com
+2023-07-17 19:20:46,682 :INFO : test_e2e :Email isa21s@gmail.com
+2023-07-17 19:20:46,683 :INFO : test_e2e :Password isaaspwd
+2023-07-17 19:20:46,683 :INFO : test_e2e :Password isaaspwd
+2023-07-17 19:20:46,683 :INFO : test_e2e :Password isFemale
+2023-07-17 19:20:46,683 :INFO : test_e2e :Password isFemale
+2023-07-17 19:23:42,088 :INFO : test_e2e :Getting all mobile names: 
+2023-07-17 19:23:42,108 :INFO : test_e2e :iphone X
+2023-07-17 19:23:42,202 :INFO : test_e2e :Samsung Note 8
+2023-07-17 19:23:42,213 :INFO : test_e2e :Nokia Edge
+2023-07-17 19:23:42,222 :INFO : test_e2e :Blackberry
+2023-07-17 19:23:46,478 :INFO : test_e2e :Searching for country india
+2023-07-17 19:23:51,875 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-17 19:23:59,054 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:23:59,054 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:23:59,054 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-17 19:23:59,054 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-17 19:23:59,054 :INFO : test_e2e :Password is rspwd
+2023-07-17 19:23:59,054 :INFO : test_e2e :Password is rspwd
+2023-07-17 19:23:59,054 :INFO : test_e2e :Gender is Male
+2023-07-17 19:23:59,054 :INFO : test_e2e :Gender is Male
+2023-07-17 19:24:03,864 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:24:03,864 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:24:03,864 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:24:03,865 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:24:03,865 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:24:03,865 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:24:03,865 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:24:03,865 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:24:03,865 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:24:03,865 :INFO : test_e2e :Gender is Female
+2023-07-17 19:24:03,865 :INFO : test_e2e :Gender is Female
+2023-07-17 19:24:03,865 :INFO : test_e2e :Gender is Female
+2023-07-17 19:33:15,432 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:33:15,432 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-17 19:33:15,432 :INFO : test_e2e :Password is rspwd
+2023-07-17 19:33:15,432 :INFO : test_e2e :Gender is Male
+2023-07-17 19:33:17,929 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:33:17,929 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:33:17,929 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:33:17,929 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:33:17,929 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:33:17,929 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:33:17,930 :INFO : test_e2e :Gender is Female
+2023-07-17 19:33:17,930 :INFO : test_e2e :Gender is Female
+2023-07-17 19:35:04,795 :INFO : test_e2e :Getting all mobile names: 
+2023-07-17 19:35:04,810 :INFO : test_e2e :iphone X
+2023-07-17 19:35:04,817 :INFO : test_e2e :Samsung Note 8
+2023-07-17 19:35:04,823 :INFO : test_e2e :Nokia Edge
+2023-07-17 19:35:04,828 :INFO : test_e2e :Blackberry
+2023-07-17 19:35:08,995 :INFO : test_e2e :Searching for country india
+2023-07-17 19:35:14,245 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-17 19:35:20,017 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:35:20,017 :INFO : test_e2e :Name is Rahul
+2023-07-17 19:35:20,018 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-17 19:35:20,018 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-17 19:35:20,018 :INFO : test_e2e :Password is rspwd
+2023-07-17 19:35:20,018 :INFO : test_e2e :Password is rspwd
+2023-07-17 19:35:20,018 :INFO : test_e2e :Gender is Male
+2023-07-17 19:35:20,018 :INFO : test_e2e :Gender is Male
+2023-07-17 19:35:22,591 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:35:22,591 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:35:22,591 :INFO : test_e2e :Name is Anshikha
+2023-07-17 19:35:22,591 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:35:22,591 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:35:22,591 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-17 19:35:22,592 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:35:22,592 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:35:22,592 :INFO : test_e2e :Password is aaspwd
+2023-07-17 19:35:22,592 :INFO : test_e2e :Gender is Female
+2023-07-17 19:35:22,592 :INFO : test_e2e :Gender is Female
+2023-07-17 19:35:22,592 :INFO : test_e2e :Gender is Female
