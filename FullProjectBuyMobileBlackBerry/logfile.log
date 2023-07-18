@@ -1,0 +1,36 @@
+2023-07-18 17:49:32,390 :INFO : test_e2e :Name is Rahul
+2023-07-18 17:49:32,391 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-18 17:49:32,391 :INFO : test_e2e :Password is rspwd
+2023-07-18 17:49:32,391 :INFO : test_e2e :Gender is Male
+2023-07-18 17:49:36,839 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:49:36,839 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:49:36,839 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:49:36,839 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:49:36,839 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:49:36,839 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:49:36,839 :INFO : test_e2e :Gender is Female
+2023-07-18 17:49:36,839 :INFO : test_e2e :Gender is Female
+2023-07-18 17:49:44,625 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:49:44,625 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:49:44,625 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:49:44,646 :INFO : test_e2e :iphone X
+2023-07-18 17:49:44,646 :INFO : test_e2e :iphone X
+2023-07-18 17:49:44,646 :INFO : test_e2e :iphone X
+2023-07-18 17:49:44,652 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:49:44,652 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:49:44,652 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:49:44,657 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:49:44,657 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:49:44,657 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:49:44,662 :INFO : test_e2e :Blackberry
+2023-07-18 17:49:44,662 :INFO : test_e2e :Blackberry
+2023-07-18 17:49:44,662 :INFO : test_e2e :Blackberry
+2023-07-18 17:49:48,833 :INFO : test_e2e :Searching for country india
+2023-07-18 17:49:48,833 :INFO : test_e2e :Searching for country india
+2023-07-18 17:49:48,833 :INFO : test_e2e :Searching for country india
+2023-07-18 17:49:54,124 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:49:54,124 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:49:54,124 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

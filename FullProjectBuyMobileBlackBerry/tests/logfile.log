@@ -1,0 +1,69 @@
+
+2023-07-18 17:14:31,723 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:14:31,749 :INFO : test_e2e :iphone X
+2023-07-18 17:14:31,761 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:14:31,768 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:14:31,786 :INFO : test_e2e :Blackberry
+2023-07-18 17:14:34,002 :INFO : test_e2e :Entering country name as ind
+2023-07-18 17:14:39,278 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:15:32,909 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:15:32,935 :INFO : test_e2e :iphone X
+2023-07-18 17:15:32,947 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:15:32,959 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:15:32,967 :INFO : test_e2e :Blackberry
+2023-07-18 17:15:35,174 :INFO : test_e2e :Entering country name as ind
+2023-07-18 17:15:40,469 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:17:44,204 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:17:44,315 :INFO : test_e2e :iphone X
+2023-07-18 17:17:44,320 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:17:44,326 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:17:44,332 :INFO : test_e2e :Blackberry
+2023-07-18 17:17:48,523 :INFO : test_e2e :Searching for country india
+2023-07-18 17:18:19,180 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:18:19,204 :INFO : test_e2e :iphone X
+2023-07-18 17:18:19,210 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:18:19,216 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:18:19,222 :INFO : test_e2e :Blackberry
+2023-07-18 17:18:23,414 :INFO : test_e2e :Searching for country india
+2023-07-18 17:19:43,148 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:19:43,173 :INFO : test_e2e :iphone X
+2023-07-18 17:19:43,179 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:19:43,184 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:19:43,189 :INFO : test_e2e :Blackberry
+2023-07-18 17:19:47,404 :INFO : test_e2e :Searching for country india
+2023-07-18 17:19:52,658 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:20:12,343 :INFO : test_e2e :getting all the card titles
+2023-07-18 17:20:12,370 :INFO : test_e2e :iphone X
+2023-07-18 17:20:12,377 :INFO : test_e2e :Samsung Note 8
+2023-07-18 17:20:12,383 :INFO : test_e2e :Nokia Edge
+2023-07-18 17:20:12,390 :INFO : test_e2e :Blackberry
+2023-07-18 17:20:16,620 :INFO : test_e2e :Searching for country india
+2023-07-18 17:20:21,888 :INFO : test_e2e :Message displayed: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-18 17:25:58,370 :INFO : test_e2e :Name is Rahul
+2023-07-18 17:25:58,370 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-18 17:25:58,370 :INFO : test_e2e :Password is rspwd
+2023-07-18 17:25:58,370 :INFO : test_e2e :Gender is Male
+2023-07-18 17:26:02,805 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:26:02,805 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:26:02,806 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:26:02,806 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:26:02,806 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:26:02,806 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:26:02,806 :INFO : test_e2e :Gender is Female
+2023-07-18 17:26:02,806 :INFO : test_e2e :Gender is Female
+2023-07-18 17:48:28,062 :INFO : test_e2e :Name is Rahul
+2023-07-18 17:48:28,063 :INFO : test_e2e :Email is rs@gmail.com
+2023-07-18 17:48:28,063 :INFO : test_e2e :Password is rspwd
+2023-07-18 17:48:28,063 :INFO : test_e2e :Gender is Male
+2023-07-18 17:48:32,514 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:48:32,514 :INFO : test_e2e :Name is Anshikha
+2023-07-18 17:48:32,514 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:48:32,514 :INFO : test_e2e :Email is a21s@gmail.com
+2023-07-18 17:48:32,514 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:48:32,514 :INFO : test_e2e :Password is aaspwd
+2023-07-18 17:48:32,514 :INFO : test_e2e :Gender is Female
+2023-07-18 17:48:32,514 :INFO : test_e2e :Gender is Female
